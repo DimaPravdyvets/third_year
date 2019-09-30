@@ -1,7 +1,8 @@
 Things to be done:
 
-#### Send p1 graphs ####
 
-### Register git hun pro ###
+### Register git hub pro ###
 
+create a python application using azure app service in linux + using zure cloud share
 
+same with jango but with PosgreSQL database 

@@ -549,7 +549,7 @@ dev.off()
 
 <div style="background-color:#F0F0F0">
 #####  <i class="fas fa-comment-dots"></i> Answer:
-We can see that the quality of the image with svg is a lot better than with png, pdf can also be an option to save the image
+We can see that the quality of the image with svg is a lot better than with png due to the way and the format the image is stored, pdf can also be an option to save the image
  
 </div>
 
